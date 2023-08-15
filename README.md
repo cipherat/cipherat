@@ -1,4 +1,4 @@
-# Cipherat manpage — MAN(1)
+# Cipherat manpage — CIPHERAT(1)
 
 ```console
 [~/github/cipherat]$ man cipherat
@@ -24,5 +24,5 @@ DESCRIPTION
 
        end of the story.
 
-1.42.0                                               2023-08-01                                         CIPHERAT(1)
+69.42.0                                               2023-08-01                                         CIPHERAT(1)
 ```
