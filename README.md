@@ -18,9 +18,8 @@ DESCRIPTION
        python, he finally met the holy, the great, the most feared.. The C Language.. cipherat was later found in a
        corner coffee-shop having 69 mugs of latte and 3 mechanical keyboards, with a raspberry pi 4 connected to
        nothing but a small lcd screen, unfortunately, he was found dead..  but wait, whats this note beside's him ?
-       [reading note..]
-       "i use arch btw."
-       EON
+       [reads note...]
+       "i use arch btw.\0"
 
        end of the story.
 
