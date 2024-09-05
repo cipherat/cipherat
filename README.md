@@ -6,7 +6,7 @@
 CIPHERAT(1)                                       Manual pager utils                                    CIPHERAT(1)
 
 NAME
-       cipherat - KSU student who is interested in computer science.
+       cipherat - KSU Computer Scientist
 
 SYNOPSIS
        cipherat [OPTION]... [REPO]...
